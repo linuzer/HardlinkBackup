@@ -12,3 +12,8 @@ die nativ auf dem Windows-API läuft und darüber hinaus multithreaded implement
 
 Die hier vorgestellte Backup-Lösung ist also im Prinzip die originale c't-Lösung, nur adaptiert auf das
 eigene, wesentlich performantere HardLink.
+
+# Installation
+Die 3 Dateien in ein Verzeichnis laden, die HardLink.exe dazu packen und in der hardlinkbackup.vbs gemäß den
+Kommentaren die Variablen anpassen.
+
