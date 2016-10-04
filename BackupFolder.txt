@@ -1,0 +1,8 @@
+' Wichtig: Geben Sie bei den Quellpfaden keinen abschließenden Backslash an, damit
+'   rsync im Backup-Ziel für jede Quelle einen separatenUnterordner erstellt. 
+'Beispiel:
+'d:\Folder\Subfolder
+\\matrix\Archiv
+\\matrix\Attachments
+\\matrix\Data
+\\matrix\Prog
