@@ -15,5 +15,6 @@ eigene, wesentlich performantere HardLink.
 
 # Installation
 Die 3 Dateien in ein Verzeichnis laden, die HardLink.exe dazu packen und in der hardlinkbackup.vbs gemäß den
-Kommentaren die Variablen anpassen.
+Kommentaren die Variablen anpassen. Danach eine Windows-Aufgabe erstellen, die das hardlinkbackup.vbs regelmäßig,
+z.B. einmal täglich um 2:00, startet. Dies kann auch indirekt über die Hourly.bat geschehen.
 
